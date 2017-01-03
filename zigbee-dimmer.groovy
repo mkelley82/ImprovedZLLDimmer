@@ -13,7 +13,7 @@
  */
 
 metadata {
-    definition (name: "Improved ZLL Dimmer Bulb (w/ Level Transitions)", namespace: "mkelley", author: "Michael Kelley") {
+    definition (name: "Improved ZLL Dimmer Bulb for Hue White (w/ Level Transitions)", namespace: "mkelley", author: "Michael Kelley") {
         capability "Actuator"
         capability "Configuration"
         capability "Refresh"
